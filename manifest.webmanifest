@@ -1,0 +1,18 @@
+{
+  "name": "LIFE OS",
+  "short_name": "LIFE OS",
+  "description": "Seu sistema pessoal de organização, projetos e rotina.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#ef4444",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
